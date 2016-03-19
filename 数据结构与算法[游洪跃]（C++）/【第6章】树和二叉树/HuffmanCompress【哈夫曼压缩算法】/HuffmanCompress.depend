@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1354282816 source:f:\[g]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第6章】树和二叉树\huffmancompress【哈夫曼压缩算法】\other.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cstring>
+	<ctime>
+
+1354282986 source:f:\[g]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第6章】树和二叉树\huffmancompress【哈夫曼压缩算法】\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	<algorithm>
+	"HuffmanCompress.h"
+
+1354609779 f:\[g]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第6章】树和二叉树\huffmancompress【哈夫曼压缩算法】\huffmancompress.h
+	<ios>
+	<iostream>
+	"Error.h"
+	"BufferType.h"
+	"HuffmanTree.h"
+
+1354275191 f:\[g]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第6章】树和二叉树\huffmancompress【哈夫曼压缩算法】\buffertype.h
+
+1354609843 f:\[g]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第6章】树和二叉树\huffmancompress【哈夫曼压缩算法】\huffmantree.h
+	<algorithm>
+	<string>
+	"HuffmanTreeNode.h"
+
+1354177526 f:\[g]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第6章】树和二叉树\huffmancompress【哈夫曼压缩算法】\huffmantreenode.h
+	<stdexcept>
+	<exception>
+	"HuffmanTreeNode.h"
+
+1354280524 f:\[g]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第6章】树和二叉树\huffmancompress【哈夫曼压缩算法】\error.h
+	<cstring>
+

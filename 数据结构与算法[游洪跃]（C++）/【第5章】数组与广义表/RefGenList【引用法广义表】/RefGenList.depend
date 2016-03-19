@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1351594523 source:f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第5章】数组与广义表\refgenlist【引用法广义表】\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	<fstream>
+	"RefGenList.h"
+
+1351602135 f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第5章】数组与广义表\refgenlist【引用法广义表】\refgenlist.h
+	"RefGenListNode.h"
+
+1351594134 source:f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第5章】数组与广义表\refgenlist【引用法广义表】\other.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cstring>
+	<ctime>
+
+1351597941 f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第5章】数组与广义表\refgenlist【引用法广义表】\refgenlistnode.h
+

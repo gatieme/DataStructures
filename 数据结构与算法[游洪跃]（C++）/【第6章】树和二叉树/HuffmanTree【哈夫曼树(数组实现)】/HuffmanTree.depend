@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1352772996 source:f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第6章】树和二叉树\huffmantree【哈夫曼树(数组实现)】\other.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cstring>
+	<ctime>
+
+1354005682 source:f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第6章】树和二叉树\huffmantree【哈夫曼树(数组实现)】\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	"HuffmanTree.h"
+
+1354005339 f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第6章】树和二叉树\huffmantree【哈夫曼树(数组实现)】\huffmantree.h
+	"HuffmanTreeNode.h"
+
+1354011962 f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第6章】树和二叉树\huffmantree【哈夫曼树(数组实现)】\huffmantreenode.h
+	<stdexcept>
+	<exception>
+	"HuffmanTreeNode.h"
+
+1354584498 source:f:\[g]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第6章】树和二叉树\huffmantree【哈夫曼树(数组实现)】\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	<algorithm>
+	"HuffmanTree.h"
+
+1354799017 f:\[g]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第6章】树和二叉树\huffmantree【哈夫曼树(数组实现)】\huffmantree.h
+	<algorithm>
+	<string>
+	<iomanip>
+	"HuffmanTreeNode.h"
+
+1354177528 f:\[g]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第6章】树和二叉树\huffmantree【哈夫曼树(数组实现)】\huffmantreenode.h
+	<stdexcept>
+	<exception>
+	"HuffmanTreeNode.h"
+
+1354581994 source:f:\[g]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第6章】树和二叉树\huffmantree【哈夫曼树(数组实现)】\other.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cstring>
+	<ctime>
+
+1354584498 source:d:\11031701\【第6章】树和二叉树\huffmantree【哈夫曼树(数组实现)】\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	<algorithm>
+	"HuffmanTree.h"
+
+1354584306 d:\11031701\【第6章】树和二叉树\huffmantree【哈夫曼树(数组实现)】\huffmantree.h
+	<algorithm>
+	<string>
+	<iomanip>
+	"HuffmanTreeNode.h"
+
+1354177528 d:\11031701\【第6章】树和二叉树\huffmantree【哈夫曼树(数组实现)】\huffmantreenode.h
+	<stdexcept>
+	<exception>
+	"HuffmanTreeNode.h"
+
+1354581994 source:d:\11031701\【第6章】树和二叉树\huffmantree【哈夫曼树(数组实现)】\other.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cstring>
+	<ctime>
+

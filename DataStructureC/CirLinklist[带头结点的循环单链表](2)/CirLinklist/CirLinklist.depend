@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1421234564 source:k:\data-structure-codes\cirlinklist\cirlinklist\cirlinklist\cirlinklist.c
+	"CirLinklist.h"
+
+1421233369 source:k:\data-structure-codes\cirlinklist\cirlinklist\cirlinklist\main.c
+	"CirLinklist.h"
+
+1421132494 k:\data-structure-codes\cirlinklist\cirlinklist\cirlinklist\cirlinklist.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<assert.h>
+
+1421234586 source:k:\data-structure-codes\cirlinklist[带头结点的循环单链表](2)\cirlinklist\main.c
+	"CirLinklist.h"
+
+1421573962 k:\data-structure-codes\cirlinklist[带头结点的循环单链表](2)\cirlinklist\cirlinklist.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<assert.h>
+
+1421744732 source:k:\c-c++\data-structure-codes\cirlinklist[带头结点的循环单链表](2)\cirlinklist\main.c
+	"CirLinklist.h"
+
+1421744394 k:\c-c++\data-structure-codes\cirlinklist[带头结点的循环单链表](2)\cirlinklist\cirlinklist.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<assert.h>
+
+1421744689 source:k:\c-c++\data-structure-codes\cirlinklist[带头结点的循环单链表](2)\cirlinklist\cirlinklist.c
+	"CirLinkList.h"
+

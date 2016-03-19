@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1189868556 source:f:\【e】software engineer\this is the book say\数据结构与算法[游洪跃]（c++）\【第2章】线性表\线性表的顺序存储结构sqlist\main.cpp
+	<iostream>
+
+1346761998 source:f:\【e】software engineer\this is the book say\数据结构与算法[游洪跃]（c++）\【第2章】线性表\线性表的顺序存储结构sqlist [bool]\main.cpp
+	<iostream>
+	"SqList.h"
+
+1346761775 f:\【e】software engineer\this is the book say\数据结构与算法[游洪跃]（c++）\【第2章】线性表\线性表的顺序存储结构sqlist [bool]\sqlist.h
+
+1346762456 source:f:\【e】software engineer\this is the book say\数据结构与算法[游洪跃]（c++）\【第2章】线性表\线性表的顺序存储结构sqlist [bool]\other.cpp
+	<iostream>
+
+1347678086 source:f:\【i】数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第2章】线性表\线性表的顺序存储结构sqlist [bool]\other.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cstring>
+	<ctime>
+
+1347530520 source:f:\【i】数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第2章】线性表\线性表的顺序存储结构sqlist [bool]\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	"SqList.h"
+
+1347525900 f:\【i】数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第2章】线性表\线性表的顺序存储结构sqlist [bool]\sqlist.h
+	<cstdio>
+
+1347530520 source:f:\【i】数据结构预算法分析\作业\线性表的顺序存储结构sqlist [bool]\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	"SqList.h"
+
+1347525900 f:\【i】数据结构预算法分析\作业\线性表的顺序存储结构sqlist [bool]\sqlist.h
+	<cstdio>
+
+1347527082 source:f:\【i】数据结构预算法分析\作业\线性表的顺序存储结构sqlist [bool]\other.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cstring>
+	<ctime>
+

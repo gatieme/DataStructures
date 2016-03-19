@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1350028651 source:f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第3章】栈和队列\sqdoublestack【两个顺序栈的空间共享】\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	<fstream>
+	"SqDoubleStack.h"
+
+1350028427 f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第3章】栈和队列\sqdoublestack【两个顺序栈的空间共享】\sqdoublestack.h
+
+1348739416 source:f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第3章】栈和队列\sqdoublestack【两个顺序栈的空间共享】\other.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cstring>
+	<ctime>
+
+1349918944 source:d:\11031701\【第3章】栈和队列\sqdoublestack【两个顺序栈的空间共享】\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	<fstream>
+	"SqDoubleStack.h"
+
+1349919072 d:\11031701\【第3章】栈和队列\sqdoublestack【两个顺序栈的空间共享】\sqdoublestack.h
+
+1348739416 source:d:\11031701\【第3章】栈和队列\sqdoublestack【两个顺序栈的空间共享】\other.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cstring>
+	<ctime>
+
+1348744342 d:\11031701\【第3章】栈和队列\sqdoublestack【两个顺序栈的空间共享】\node.h
+

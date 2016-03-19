@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1368535052 source:g:\[e]data structures&algorithm analysis\数据结构与算法[游洪跃]（c++）\【第9章】排序\sorting\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<windows.h>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	<algorithm>
+	"Sort.h"
+
+1365501498 source:g:\[e]data structures&algorithm analysis\数据结构与算法[游洪跃]（c++）\【第9章】排序\sorting\insertsort.cpp
+	"Sort.h"
+
+1368535489 g:\[e]data structures&algorithm analysis\数据结构与算法[游洪跃]（c++）\【第9章】排序\sorting\sort.h
+	<iostream>
+	"LinkList.h"
+	<cmath>
+
+1365505344 source:g:\[e]data structures&algorithm analysis\数据结构与算法[游洪跃]（c++）\【第9章】排序\sorting\swap.cpp
+	"Sort.h"
+	<iostream>
+	<iomanip>
+
+1368453002 source:g:\[e]data structures&algorithm analysis\数据结构与算法[游洪跃]（c++）\【第9章】排序\sorting\other.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cstring>
+	<ctime>
+
+1225042668 g:\[e]data structures&algorithm analysis\数据结构与算法[游洪跃]（c++）\【第9章】排序\sorting\linklist.h
+	"node.h"
+
+1368452624 g:\[e]data structures&algorithm analysis\数据结构与算法[游洪跃]（c++）\【第9章】排序\sorting\node.h
+

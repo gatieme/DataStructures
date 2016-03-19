@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1351157786 source:f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第5章】数组与广义表\array【数组类】\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	"Array.h"
+
+1351158806 f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第5章】数组与广义表\array【数组类】\array.h
+	"Error.h"
+
+1351157804 f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第5章】数组与广义表\array【数组类】\error.h
+
+1348059478 source:f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第5章】数组与广义表\array【数组类】\other.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cstring>
+	<ctime>
+

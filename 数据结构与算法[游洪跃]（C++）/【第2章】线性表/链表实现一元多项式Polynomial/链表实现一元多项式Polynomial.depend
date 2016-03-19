@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1348966152 source:f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第2章】线性表\链表实现一元多项式polynomial\main.cpp
+	<iostream>
+	"Polynomial.h"
+
+1348059478 source:f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第2章】线性表\链表实现一元多项式polynomial\other.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cstring>
+	<ctime>
+
+1348914770 source:f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第2章】线性表\链表实现一元多项式polynomial\polyitem.cpp
+	"PolyItem.h"
+
+1349070306 f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第2章】线性表\链表实现一元多项式polynomial\polyitem.h
+
+1349087711 f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第2章】线性表\链表实现一元多项式polynomial\polynomial.h
+	"LinkList.h"
+	"PolyItem.h"
+
+1349086086 f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第2章】线性表\链表实现一元多项式polynomial\linklist.h
+	"Node.h"
+
+1348914907 f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第2章】线性表\链表实现一元多项式polynomial\node.h
+

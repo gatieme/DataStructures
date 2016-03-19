@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="Other.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="2208" topLine="57" />
+	</File>
+	<File name="SqQueue.h" open="1" top="0" tabpos="3">
+		<Cursor position="12397" topLine="124" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="1584" topLine="40" />
+	</File>
+</CodeBlocks_layout_file>

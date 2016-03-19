@@ -1,0 +1,149 @@
+# depslib dependency file v1.0
+1368535052 source:g:\[e]data structures&algorithm analysis\数据结构与算法[游洪跃]（c++）\【第9章】排序\sorting\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<windows.h>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	<algorithm>
+	"Sort.h"
+
+1365501498 source:g:\[e]data structures&algorithm analysis\数据结构与算法[游洪跃]（c++）\【第9章】排序\sorting\insertsort.cpp
+	"Sort.h"
+
+1368535444 g:\[e]data structures&algorithm analysis\数据结构与算法[游洪跃]（c++）\【第9章】排序\sorting\sort.h
+	<iostream>
+	"LinkList.h"
+	<cmath>
+
+1365505344 source:g:\[e]data structures&algorithm analysis\数据结构与算法[游洪跃]（c++）\【第9章】排序\sorting\swap.cpp
+	"Sort.h"
+	<iostream>
+	<iomanip>
+
+1368453002 source:g:\[e]data structures&algorithm analysis\数据结构与算法[游洪跃]（c++）\【第9章】排序\sorting\other.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cstring>
+	<ctime>
+
+1225042668 g:\[e]data structures&algorithm analysis\数据结构与算法[游洪跃]（c++）\【第9章】排序\sorting\linklist.h
+	"node.h"
+
+1368452624 g:\[e]data structures&algorithm analysis\数据结构与算法[游洪跃]（c++）\【第9章】排序\sorting\node.h
+
+1368535054 source:e:\【第9章】排序\sorting\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<windows.h>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	<algorithm>
+	"Sort.h"
+
+1369046634 e:\【第9章】排序\sorting\sort.h
+	<iostream>
+	<algorithm>
+	<functional>
+	"LinkList.h"
+	<cmath>
+
+1225042668 e:\【第9章】排序\sorting\linklist.h
+	"node.h"
+
+1368452626 e:\【第9章】排序\sorting\node.h
+
+1368453004 source:e:\【第9章】排序\sorting\other.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cstring>
+	<ctime>
+
+1369047229 source:c:\documents and settings\administrator\桌面\1\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<windows.h>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	<algorithm>
+	"Sort.h"
+
+1369047172 c:\documents and settings\administrator\桌面\1\sort.h
+	<iostream>
+	<algorithm>
+	<functional>
+	"LinkList.h"
+	<cmath>
+
+1225042668 c:\documents and settings\administrator\桌面\1\linklist.h
+	"node.h"
+
+1368452626 c:\documents and settings\administrator\桌面\1\node.h
+
+1368453004 source:c:\documents and settings\administrator\桌面\1\other.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cstring>
+	<ctime>
+
+1368453004 source:c:\users\acer\desktop\1\other.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cstring>
+	<ctime>
+
+1368453004 source:g:\[e]data structures&algorithm analysis\数据结构与算法[游洪跃]（c++）\【第9章】排序\1\other.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cstring>
+	<ctime>
+
+1369569045 source:g:\[e]data structures&algorithm analysis\数据结构与算法[游洪跃]（c++）\【第9章】排序\1\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<windows.h>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	<algorithm>
+	"Sort.h"
+
+1369047174 g:\[e]data structures&algorithm analysis\数据结构与算法[游洪跃]（c++）\【第9章】排序\1\sort.h
+	<iostream>
+	<algorithm>
+	<functional>
+	"LinkList.h"
+	<cmath>
+
+1225042668 g:\[e]data structures&algorithm analysis\数据结构与算法[游洪跃]（c++）\【第9章】排序\1\linklist.h
+	"node.h"
+
+1368452626 g:\[e]data structures&algorithm analysis\数据结构与算法[游洪跃]（c++）\【第9章】排序\1\node.h
+

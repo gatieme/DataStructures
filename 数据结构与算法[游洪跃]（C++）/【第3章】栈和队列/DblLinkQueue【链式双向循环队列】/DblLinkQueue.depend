@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1349772790 source:f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第3章】栈和队列\dbllinkqueue【链式循环队列】\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	<fstream>
+	"DblLinkQueue.h"
+
+1349772957 f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第3章】栈和队列\dbllinkqueue【链式循环队列】\dbllinkqueue.h
+	"DblNode.h"
+
+1349772728 f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第3章】栈和队列\dbllinkqueue【链式循环队列】\dblnode.h
+
+1349769516 source:f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第3章】栈和队列\dbllinkqueue【链式循环队列】\other.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cstring>
+	<ctime>
+

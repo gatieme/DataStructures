@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1369057259 source:c:\users\acer\desktop\bignum\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"BigNum.h"
+
+1369050741 c:\users\acer\desktop\bignum\bignum.h
+	"LinkList.h"
+
+1369050458 c:\users\acer\desktop\bignum\linklist.h
+	"Node.h"
+
+1369050458 c:\users\acer\desktop\bignum\node.h
+
+1369057137 source:c:\users\acer\desktop\bignum\other.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"BigNum.h"
+

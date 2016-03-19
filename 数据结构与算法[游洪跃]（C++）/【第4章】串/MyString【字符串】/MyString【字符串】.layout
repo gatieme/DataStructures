@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="LinkList.h" open="1" top="0" tabpos="3">
+		<Cursor position="4109" topLine="91" />
+	</File>
+	<File name="MyString.h" open="1" top="0" tabpos="5">
+		<Cursor position="1358" topLine="87" />
+	</File>
+	<File name="Node.h" open="1" top="0" tabpos="4">
+		<Cursor position="1044" topLine="52" />
+	</File>
+	<File name="Other.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="2667" topLine="75" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="4568" topLine="115" />
+	</File>
+</CodeBlocks_layout_file>

@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1348745076 source:f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第3章】栈和队列\linkstack【链式栈】\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	<fstream>
+	"LinkStack.h"
+
+1348748978 f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第3章】栈和队列\linkstack【链式栈】\linkstack.h
+	"Node.h"
+
+1348744340 f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第3章】栈和队列\linkstack【链式栈】\node.h
+
+1348739414 source:f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第3章】栈和队列\linkstack【链式栈】\other.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cstring>
+	<ctime>
+

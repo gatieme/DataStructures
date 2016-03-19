@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1349856954 source:f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第3章】栈和队列\circlelinkqueue【链式循环队列】\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	<fstream>
+	"CircleLinkQueue.h"
+
+1350384002 f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第3章】栈和队列\circlelinkqueue【链式循环队列】\circlelinkqueue.h
+	"Node.h"
+
+1349773328 f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第3章】栈和队列\circlelinkqueue【链式循环队列】\node.h
+
+1349769518 source:f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第3章】栈和队列\circlelinkqueue【链式循环队列】\other.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cstring>
+	<ctime>
+

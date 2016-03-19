@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1348059395 source:f:\【i】数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第3章】栈和队列\sqstack【顺序栈】\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	"SqStack.h"
+
+1348059478 source:f:\【i】数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第3章】栈和队列\sqstack【顺序栈】\other.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cstring>
+	<ctime>
+
+1348059170 f:\【i】数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第3章】栈和队列\sqstack【顺序栈】\sqstack.h
+
+1348743889 source:f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第3章】栈和队列\sqstack【顺序栈】\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	<fstream>
+	"SqStack.h"
+
+1348739304 f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第3章】栈和队列\sqstack【顺序栈】\sqstack.h
+
+1348739414 source:f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第3章】栈和队列\sqstack【顺序栈】\other.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cstring>
+	<ctime>
+

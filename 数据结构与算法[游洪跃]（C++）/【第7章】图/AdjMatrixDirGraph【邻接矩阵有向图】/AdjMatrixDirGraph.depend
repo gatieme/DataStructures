@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1355998052 source:f:\[g]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第7章】图\adjmatrixdirgraph【邻接矩阵有向图】\other.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cstring>
+	<ctime>
+
+1355997914 source:f:\[g]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第7章】图\adjmatrixdirgraph【邻接矩阵有向图】\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<windows.h>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	<algorithm>
+	"AdjMatrixDirGraph.h"
+
+1355318574 f:\[g]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第7章】图\adjmatrixdirgraph【邻接矩阵有向图】\adjmatrixdirgraph.h
+	<stdexcept>
+	<iomanip>
+	<queue>
+

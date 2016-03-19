@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="CircleLinkQueue.h" open="1" top="1" tabpos="4">
+		<Cursor position="6184" topLine="126" />
+	</File>
+	<File name="Node.h" open="1" top="0" tabpos="3">
+		<Cursor position="2817" topLine="55" />
+	</File>
+	<File name="Other.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="0" topLine="24" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="0" topLine="133" />
+	</File>
+</CodeBlocks_layout_file>

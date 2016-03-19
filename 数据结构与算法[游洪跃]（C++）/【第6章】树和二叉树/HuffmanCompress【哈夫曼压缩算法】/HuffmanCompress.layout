@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="BufferType.h" open="1" top="0" tabpos="1">
+		<Cursor position="1441" topLine="37" />
+	</File>
+	<File name="Error.h" open="1" top="0" tabpos="6">
+		<Cursor position="1378" topLine="36" />
+	</File>
+	<File name="HuffmanCompress.h" open="1" top="1" tabpos="3">
+		<Cursor position="9592" topLine="228" />
+	</File>
+	<File name="HuffmanTree.h" open="1" top="0" tabpos="5">
+		<Cursor position="1315" topLine="23" />
+	</File>
+	<File name="HuffmanTreeNode.h" open="1" top="0" tabpos="7">
+		<Cursor position="6119" topLine="119" />
+	</File>
+	<File name="Other.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="2814" topLine="84" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="3007" topLine="82" />
+	</File>
+</CodeBlocks_layout_file>

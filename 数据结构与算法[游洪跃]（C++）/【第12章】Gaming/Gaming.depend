@@ -1,0 +1,160 @@
+# depslib dependency file v1.0
+1368256356 source:c:\users\acer\desktop\gaming\computerplayer.cpp
+	<stdlib.h>
+	<time.h>
+	"ComputerPlayer.h"
+
+1368184306 c:\users\acer\desktop\gaming\computerplayer.h
+	"Player.h"
+
+1368261034 c:\users\acer\desktop\gaming\player.h
+	<iostream>
+	"Gaming.h"
+
+1368104408 c:\users\acer\desktop\gaming\gaming.h
+
+1368258242 source:c:\users\acer\desktop\gaming\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Game.h"
+
+1368259660 source:c:\users\acer\desktop\gaming\other.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cstring>
+	<ctime>
+
+1368259434 source:c:\users\acer\desktop\gaming\personplayer.cpp
+	"PersonPlayer.h"
+
+1368186474 c:\users\acer\desktop\gaming\personplayer.h
+	"Player.h"
+
+1368260960 source:c:\users\acer\desktop\gaming\player.cpp
+	"Player.h"
+	<iostream>
+	<algorithm>
+	<iomanip>
+
+1368261034 source:c:\users\acer\desktop\gaming\game.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<cstdio>
+	"Game.h"
+
+1368260520 c:\users\acer\desktop\gaming\game.h
+	"Gaming.h"
+	"PersonPlayer.h"
+	"ComputerPlayer.h"
+
+1368261034 source:g:\gaming\game.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<cstdio>
+	"Game.h"
+
+1368260520 g:\gaming\game.h
+	"Gaming.h"
+	"PersonPlayer.h"
+	"ComputerPlayer.h"
+
+1368104408 g:\gaming\gaming.h
+
+1368186474 g:\gaming\personplayer.h
+	"Player.h"
+
+1368261034 g:\gaming\player.h
+	<iostream>
+	"Gaming.h"
+
+1368184306 g:\gaming\computerplayer.h
+	"Player.h"
+
+1368259660 source:g:\gaming\other.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cstring>
+	<ctime>
+
+1368259434 source:g:\gaming\personplayer.cpp
+	"PersonPlayer.h"
+
+1368258242 source:g:\gaming\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Game.h"
+
+1368256356 source:g:\gaming\computerplayer.cpp
+	<stdlib.h>
+	<time.h>
+	"ComputerPlayer.h"
+
+1368260960 source:g:\gaming\player.cpp
+	"Player.h"
+	<iostream>
+	<algorithm>
+	<iomanip>
+
+1368256356 source:g:\[e]data structures&algorithm analysis\数据结构与算法[游洪跃]（c++）\gaming\computerplayer.cpp
+	<stdlib.h>
+	<time.h>
+	"ComputerPlayer.h"
+
+1368184306 g:\[e]data structures&algorithm analysis\数据结构与算法[游洪跃]（c++）\gaming\computerplayer.h
+	"Player.h"
+
+1368341389 g:\[e]data structures&algorithm analysis\数据结构与算法[游洪跃]（c++）\gaming\player.h
+	<iostream>
+	"Gaming.h"
+
+1368104408 g:\[e]data structures&algorithm analysis\数据结构与算法[游洪跃]（c++）\gaming\gaming.h
+
+1368261034 source:g:\[e]data structures&algorithm analysis\数据结构与算法[游洪跃]（c++）\gaming\game.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<cstdio>
+	"Game.h"
+
+1368260520 g:\[e]data structures&algorithm analysis\数据结构与算法[游洪跃]（c++）\gaming\game.h
+	"Gaming.h"
+	"PersonPlayer.h"
+	"ComputerPlayer.h"
+
+1368186474 g:\[e]data structures&algorithm analysis\数据结构与算法[游洪跃]（c++）\gaming\personplayer.h
+	"Player.h"
+
+1368258242 source:g:\[e]data structures&algorithm analysis\数据结构与算法[游洪跃]（c++）\gaming\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Game.h"
+
+1368341389 source:g:\[e]data structures&algorithm analysis\数据结构与算法[游洪跃]（c++）\gaming\other.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cstring>
+	<ctime>
+
+1368341389 source:g:\[e]data structures&algorithm analysis\数据结构与算法[游洪跃]（c++）\gaming\personplayer.cpp
+	"PersonPlayer.h"
+
+1368341414 source:g:\[e]data structures&algorithm analysis\数据结构与算法[游洪跃]（c++）\gaming\player.cpp
+	"Player.h"
+	<iostream>
+	<algorithm>
+	<iomanip>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="AdjListGraphVertexNode.h" open="1" top="0" tabpos="3">
+		<Cursor position="3368" topLine="69" />
+	</File>
+	<File name="AdjListUndirGraph.h" open="1" top="1" tabpos="1">
+		<Cursor position="9249" topLine="218" />
+	</File>
+	<File name="LinkList.h" open="1" top="0" tabpos="4">
+		<Cursor position="6147" topLine="143" />
+	</File>
+	<File name="Node.h" open="1" top="0" tabpos="5">
+		<Cursor position="2907" topLine="71" />
+	</File>
+	<File name="Other.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="1289" topLine="33" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="13799" topLine="401" />
+	</File>
+</CodeBlocks_layout_file>

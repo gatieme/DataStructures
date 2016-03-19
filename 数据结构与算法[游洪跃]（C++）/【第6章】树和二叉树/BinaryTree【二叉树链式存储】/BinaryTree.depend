@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1352772996 source:f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第6章】树和二叉树\binarytree【二叉树链式存储】\other.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cstring>
+	<ctime>
+
+1353395643 source:f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第6章】树和二叉树\binarytree【二叉树链式存储】\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	"BinaryTree.h"
+
+1352171631 f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第6章】树和二叉树\binarytree【二叉树链式存储】\bintree.h
+	<stdexcept>
+	"BinTreeNode.h"
+
+1352171084 f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第6章】树和二叉树\binarytree【二叉树链式存储】\bintreenode.h
+
+1353395468 f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第6章】树和二叉树\binarytree【二叉树链式存储】\binarytree.h
+	<stdexcept>
+	<exception>
+	"BinTreeNode.h"
+	"LinkQueue.h"
+
+1352770708 source:d:\11031701\【第6章】树和二叉树\binarytree【二叉树链式存储】\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	"BinaryTree.h"
+
+1352770636 d:\11031701\【第6章】树和二叉树\binarytree【二叉树链式存储】\binarytree.h
+	<stdexcept>
+	"BinTreeNode.h"
+
+1352171084 d:\11031701\【第6章】树和二叉树\binarytree【二叉树链式存储】\bintreenode.h
+
+1352769338 source:d:\11031701\【第6章】树和二叉树\binarytree【二叉树链式存储】\other.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cstring>
+	<ctime>
+
+1349771278 f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第6章】树和二叉树\binarytree【二叉树链式存储】\linkqueue.h
+	"Node.h"
+
+1348744342 f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第6章】树和二叉树\binarytree【二叉树链式存储】\node.h
+
+1353395683 source:f:\[e]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第6章】树和二叉树\binarytree【二叉树链式存储】\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	"BinaryTree.h"
+
+1353395468 f:\[e]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第6章】树和二叉树\binarytree【二叉树链式存储】\binarytree.h
+	<stdexcept>
+	<exception>
+	"BinTreeNode.h"
+	"LinkQueue.h"
+
+1352171084 f:\[e]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第6章】树和二叉树\binarytree【二叉树链式存储】\bintreenode.h
+
+1349771278 f:\[e]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第6章】树和二叉树\binarytree【二叉树链式存储】\linkqueue.h
+	"Node.h"
+
+1348744342 f:\[e]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第6章】树和二叉树\binarytree【二叉树链式存储】\node.h
+
+1352772996 source:f:\[e]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第6章】树和二叉树\binarytree【二叉树链式存储】\other.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cstring>
+	<ctime>
+

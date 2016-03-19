@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1347965753 source:f:\【i】数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第2章】线性表\线性表链式存储之单链表simplelinklist\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	"SimpleLinkList.h"
+
+1347965513 f:\【i】数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第2章】线性表\线性表链式存储之单链表simplelinklist\simplelinklist.h
+	"Node.h"
+
+1347776338 source:f:\【i】数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第2章】线性表\线性表链式存储之单链表simplelinklist\other.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cstring>
+	<ctime>
+
+1347675719 f:\【i】数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第2章】线性表\线性表链式存储之单链表simplelinklist\node.h
+
+1347965753 source:f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第2章】线性表\线性表链式存储之单链表simplelinklist\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	"SimpleLinkList.h"
+
+1352289328 f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第2章】线性表\线性表链式存储之单链表simplelinklist\simplelinklist.h
+	"Node.h"
+
+1352289318 f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第2章】线性表\线性表链式存储之单链表simplelinklist\node.h
+
+1347776338 source:f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第2章】线性表\线性表链式存储之单链表simplelinklist\other.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cstring>
+	<ctime>
+

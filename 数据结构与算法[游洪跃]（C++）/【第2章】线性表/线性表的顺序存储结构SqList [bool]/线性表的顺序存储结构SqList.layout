@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Other.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="0" topLine="140" />
+	</File>
+	<File name="SqList.h" open="1" top="1" tabpos="5">
+		<Cursor position="36054" topLine="853" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="693" topLine="303" />
+	</File>
+</CodeBlocks_layout_file>

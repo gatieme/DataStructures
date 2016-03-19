@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1420625860 source:g:\download\算法\1-100\simplelinklist\main.c
+	"SimpleLinkList.h"
+
+1420623774 g:\download\算法\1-100\simplelinklist\simplelinklist.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<assert.h>
+
+1420625822 source:g:\download\算法\1-100\simplelinklist\simplelinklist.c
+	"SimpleLinkList.h"
+
+1420893254 source:g:\download\data-structure-codes\simplelinklist[不带头结点]\main.c
+	"SimpleLinkList.h"
+
+1420892926 g:\download\data-structure-codes\simplelinklist[不带头结点]\simplelinklist.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<assert.h>
+
+1420893296 source:g:\download\data-structure-codes\simplelinklist[不带头结点]\simplelinklist.c
+	"SimpleLinkList.h"
+
+1420962230 source:g:\download\data-structure-codes\simplelinklist[不带头结点]\simplelinklist[不带头结点]\simplelinklist.c
+	"SimpleLinkList.h"
+
+1420967664 g:\download\data-structure-codes\simplelinklist[不带头结点]\simplelinklist[不带头结点]\simplelinklist.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<assert.h>
+
+1420962242 source:g:\download\data-structure-codes\simplelinklist[不带头结点]\simplelinklist[不带头结点]\main.c
+	"SimpleLinkList.h"
+

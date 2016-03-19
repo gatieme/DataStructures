@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1351129406 source:f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第5章】数组与广义表\trisparsematrix【三元组顺序表(稀疏矩阵)】\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	<fstream>
+	"TriSparseMatrix.h"
+
+1351148289 f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第5章】数组与广义表\trisparsematrix【三元组顺序表(稀疏矩阵)】\trisparsematrix.h
+	"Triple.h"
+
+1351163523 f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第5章】数组与广义表\trisparsematrix【三元组顺序表(稀疏矩阵)】\triple.h
+	<iostream>
+
+1351128486 source:f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第5章】数组与广义表\trisparsematrix【三元组顺序表(稀疏矩阵)】\other.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cstring>
+	<ctime>
+
+1351128486 source:d:\11031701\【第5章】数组与广义表\trisparsematrix【三元组顺序表(稀疏矩阵)】\other.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cstring>
+	<ctime>
+
+1351129406 source:d:\11031701\【第5章】数组与广义表\trisparsematrix【三元组顺序表(稀疏矩阵)】\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	<fstream>
+	"TriSparseMatrix.h"
+
+1351129340 d:\11031701\【第5章】数组与广义表\trisparsematrix【三元组顺序表(稀疏矩阵)】\trisparsematrix.h
+	"Triple.h"
+
+1351066626 d:\11031701\【第5章】数组与广义表\trisparsematrix【三元组顺序表(稀疏矩阵)】\triple.h
+	<iostream>
+

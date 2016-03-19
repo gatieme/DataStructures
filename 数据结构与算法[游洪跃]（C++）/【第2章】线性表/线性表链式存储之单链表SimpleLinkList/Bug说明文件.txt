@@ -1,0 +1,27 @@
+SimpleLinkList.h.h文件中第450行
+函数bool SimpleLinkList<ElemType>::Delete(int position, ElemType &elem)中
+该函数实现的是删除链表第position个结点的数据, 并将此数据返回给elem
+我们都知道在C++中用new开辟的内存空间都应该用delete删除内存区域的
+我们在函数中用nextPtr指向了需要删除的内存区域
+但那是此处用delete nextPtr后会发现程序出现了意想不到的错误     
+
+
+
+
+
+// 开始
+
+首先将450行注释掉
+运行程序, 待进入主界面后选择1建立一个链表
+输入10, 将建立一个数据完整的链表信息
+然后输入6, 开始删除元素
+这个函数会调用Delete(int position, ElemType &elem)函数
+问题就出现在这个
+这种情况下运行是完全正确的
+
+// 但是如果我们取消第450行delete next的注释
+再次运行程序
+会发现删除元素的时候会出错
+删除任意一个元素
+第一个删除时， 会发现整个指针的指向都蹦了
+第二次删除时， 直接会出错

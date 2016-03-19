@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1421234564 source:k:\data-structure-codes\cirlinklist\cirlinklist\cirlinklist\cirlinklist.c
+	"CirLinklist.h"
+
+1421233369 source:k:\data-structure-codes\cirlinklist\cirlinklist\cirlinklist\main.c
+	"CirLinklist.h"
+
+1421132494 k:\data-structure-codes\cirlinklist\cirlinklist\cirlinklist\cirlinklist.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<assert.h>
+

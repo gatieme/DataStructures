@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1355999174 source:f:\[g]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第7章】图\adjlistundirgraph【邻接表无向图】\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<windows.h>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	<algorithm>
+	"AdjListUndirGraph.h"
+
+1355999261 f:\[g]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第7章】图\adjlistundirgraph【邻接表无向图】\adjlistundirgraph.h
+	<stdexcept>
+	<iomanip>
+	<list>
+	<cstring>
+	<queue>
+	"AdjListGraphVertexNode.h"
+
+1355999174 source:f:\[g]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第7章】图\adjlistundirgraph【邻接表无向图】\other.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cstring>
+	<ctime>
+
+1355399801 f:\[g]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第7章】图\adjlistundirgraph【邻接表无向图】\adjlistgraphvertexnode.h
+	"LinkList.h"
+
+1355996992 f:\[g]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第7章】图\adjlistundirgraph【邻接表无向图】\linklist.h
+	"Node.h"
+
+1355996275 f:\[g]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第7章】图\adjlistundirgraph【邻接表无向图】\node.h
+

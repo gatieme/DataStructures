@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1350638589 source:f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第4章】串\mystring【字符串】\other.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cstring>
+	<ctime>
+
+1350640111 source:f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第4章】串\mystring【字符串】\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	"MyString.h"
+
+1350695866 f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第4章】串\mystring【字符串】\mystring.h
+	<cstring>
+	<cassert>
+	"LinkList.h"
+	<iostream>
+
+1350215367 f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第4章】串\mystring【字符串】\linklist.h
+	"Node.h"
+
+1349069983 f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第4章】串\mystring【字符串】\node.h
+
+1349070064 source:f:\[i]数据结构预算法分析\数据结构与算法[游洪跃]（c++）\【第4章】串\mystring【字符串】\mystring.cpp
+
